@@ -34,4 +34,3 @@ Proyek ini dibuat untuk menganalisis data penjualan furniture menggunakan SQL (B
 
 ## Dashboard Preview
 
-(Screenshot dashboard akan ditambahkan di sini)
